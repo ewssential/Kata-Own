@@ -1,0 +1,7 @@
+== Jeden zweiten und vierten Mittwoch im Monat ab 20 Uhr ==
+Da das letzte Treffen ein Erfolg war, knüpfen wir an und führen den Termin weiter.
+Wir schreiben an einer etwas größeren Application-Kata. Thema noch unbekannt, ein Spiel, eine Anwendung, ...
+Was auf jeden Fall bekannt ist, dass es um die persönliche Weiterentwicklung und den Austausch bezüglich Softwareentwicklung und Methodik geht.
+Du kannst allerdings auch an eigenen Sachen arbeiten und dich vom "Spirit" mitziehen lassen - sozusagen ein CoWorking/OpenSpace.
+
+Ihr konntet beim letzten Mal nicht dabei sein - kein Problem! Du willst nicht an der Kata mitwirken aber trotzdem teilnehmen - kein Problem! Komm vorbei, übe, mache mit, diskutiere.
